@@ -1,0 +1,1 @@
+'aa aba abba abbba abca abea'.replace(/ab?a/, '!');

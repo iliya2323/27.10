@@ -1,0 +1,1 @@
+'ahb acb aeb aeeb adcb axeb'.replace(/a.b/, '!');

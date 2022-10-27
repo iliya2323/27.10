@@ -1,0 +1,1 @@
+'aba aca aea abba adca abea'.replace(/a..a/, '!');
